@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{95197D34-8E3D-37DA-3605-D9BBA1796752}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Jill/JillAI.cs">
+    <Files>
+      <File FileName="Assets/Jill/Scripts/JillAttackState.cs" Line="13" Column="1" />
+      <File FileName="Assets/Jill/Scripts/JillWalkState.cs" Line="36" Column="44" />
+      <File FileName="Assets/Jill/JillAI.cs" Line="85" Column="42" />
+      <File FileName="Assets/Jill/Scripts/JillDeathState.cs" Line="12" Column="55" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zombie-VR-World" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Jill" expanded="True">
+                <Node name="Scripts" expanded="True" />
+                <Node name="JillAI.cs" selected="True" />
+              </Node>
+              <Node name="Mixamo" expanded="True">
+                <Node name="Animation Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e9b5802d-9055-408f-adee-0dfa9d56c5cb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

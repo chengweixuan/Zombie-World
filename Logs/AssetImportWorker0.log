@@ -1,0 +1,114 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Volumes/xuan's SSD/CS4240/Zombie-VR-World
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57016
+Successfully changed project path to: /Volumes/xuan's SSD/CS4240/Zombie-VR-World
+/Volumes/xuan's SSD/CS4240/Zombie-VR-World
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/xuan's SSD/CS4240/Zombie-VR-World/Assets
+GfxDevice: creating device client; threaded=0
+2022-02-25 02:43:09.270 Unity[51337:3076212] X315 PRO preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-02-25 02:43:09.270 Unity[51337:3076212] Metal devices available: 1
+2022-02-25 02:43:09.270 Unity[51337:3076212] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2022-02-25 02:43:09.270 Unity[51337:3076212] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Initialize mono
+Mono path[0] = '/Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56337
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003917 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 51.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.247 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 51.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.254 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/chengweixuanmacbook/Desktop/Unity Projects/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1954 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 217.4 MB.
+System memory in use after: 217.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2399.
+Total: 3.102320 ms (FindLiveObjects: 0.293731 ms CreateObjectMapping: 0.085163 ms MarkObjects: 2.573911 ms  DeleteObjects: 0.148281 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Jill/Animations/Jill_attack 1.fbx
+  artifactKey: Guid(18ba8d5b399864805aa45e19fb0a2b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jill/Animations/Jill_attack 1.fbx using Guid(18ba8d5b399864805aa45e19fb0a2b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecbdc26a2209d957ce56e73b7ec4157') in 1.077738 seconds
+  Import took 1.081745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Jill/JillAI.cs
+  artifactKey: Guid(b96e9459f661a4545bf9eaea61241646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jill/JillAI.cs using Guid(b96e9459f661a4545bf9eaea61241646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce73ba771a6c8d3a94cf9d405be7b6e') in 1.617150 seconds
+  Import took 1.621325 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1910 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 225.9 MB.
+System memory in use after: 226.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 2.341302 ms (FindLiveObjects: 0.403709 ms CreateObjectMapping: 0.084459 ms MarkObjects: 1.812166 ms  DeleteObjects: 0.039712 ms)
+
